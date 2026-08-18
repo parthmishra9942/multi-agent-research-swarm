@@ -7,6 +7,11 @@
 
 A production-grade **Hierarchical Multi-Agent Research Swarm** that autonomously decomposes ambiguous research objectives into structured sub-investigations, fans out parallel domain workers, audits findings via an **Adversarial Critic agent**, and compiles an executive-ready, fully cited research brief.
 
+
+<p align="center">
+  <img src="assets/demo.gif" alt="Portfolio Showcase" width="100%" style="border-radius: 10px;">
+</p>
+
 ---
 
 ## 🏛️ Swarm Choreography Flowchart
